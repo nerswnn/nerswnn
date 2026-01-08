@@ -15,7 +15,7 @@
 
 <a href="https://www.youtube.com/@nerswndewryofficial?sub_confirmation=1"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
  <a href="https://www.instagram.com/nerswn_dewry_official"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
- <a href="https://www.facebook.com/nerswn.dewry.official">[Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)]</a>
+ <a href="https://www.facebook.com/nerswn.dewry.official">[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)]</a>
   <a href="https://discord.com/invite/BY68JKfBDn"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
  
  
