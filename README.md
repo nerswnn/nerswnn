@@ -26,7 +26,7 @@
  [![Twitter](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x)](https://x.com/nerswndewry)
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nerswn.ct.ws)
- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://socialmedialinks.ct.ws)
+
  
 </div>
 
